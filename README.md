@@ -1,7 +1,7 @@
 <h1> Kırtasiye Satış Otomasyonu <h1>
 <h4>Senaryo: Bu Projemde bir Kırtasiye firmasının satış esnasında stokta ne kadar ürün kaldığını ve ürünleri kime sattığını ve sisteme kullanıcı yetkisi olmayanların giremeyeceği bir proje geliştirdim.<h4>
 <h1>  Kullanılan Teknolojiler<h1>
-<h4> C# - SSMS  <h4>
+<h4> C# - MSSQL  <h4>
 <h1>Giriş<h1>
 <img src="https://user-images.githubusercontent.com/116731704/213920837-e1acd561-abdc-476d-937d-2d28d9bc8df3.png" class="img-fluid" width="700px" height="400px">
 <h1>Kullanıcı Kayıt<h1>
