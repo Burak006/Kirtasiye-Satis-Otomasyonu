@@ -1,5 +1,5 @@
 <h1> Kırtasiye Satış Otomasyonu <h1>
-<h4>Senaryo: Bu Projemde bir Kırtasiye firmasının satış esnasında stokta ne kadar ürün kaldığını ve ürünleri kime sattığını ve sisteme kullanıcı yetkisi olmayanların giremeyeceği bir proje geliştirdim.<h4>
+<h4>Senaryo: Bu Projemde bir Kırtasiye firmasının satış esnasında stokta ne kadar ürün kaldığını ve ürünleri kime sattığını ve sisteme kullanıcı yetkisi olmayanların giremeyeceği bir proje geliştirdim yani kullanıcı yetki olayı, müşteri ekle-listele, ürün kategori ve ürün ekleme, satış gerçekleştirme ve tabikide stokta kalan ürün konrtolü gibi olaylarıda barındıran bir proje.<h4>
 <h1>  Kullanılan Teknolojiler<h1>
 <h4> C# - MSSQL  <h4>
 <h1>Giriş<h1>
